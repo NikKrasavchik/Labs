@@ -1,0 +1,3 @@
+﻿  SBserver.cpp
+C:\Users\Ник\Desktop\prog\Labs\lab10\SBserver\SBserver.cpp(26,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SBserver.vcxproj -> C:\Users\Ник\Desktop\prog\Labs\lab10\SBserver\x64\Debug\SBserver.exe

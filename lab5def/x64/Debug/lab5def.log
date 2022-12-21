@@ -1,0 +1,3 @@
+﻿  lab5def.cpp
+C:\Users\Ник\Desktop\prog\Labs\lab5def\lab5def.cpp(18,28): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  lab5def.vcxproj -> C:\Users\Ник\Desktop\prog\Labs\lab5def\x64\Debug\lab5def.exe

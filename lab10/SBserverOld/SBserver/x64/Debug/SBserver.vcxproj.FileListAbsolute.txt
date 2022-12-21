@@ -1,0 +1,2 @@
+C:\Users\Ник\Desktop\prog\Labs\lab10\SBserver\x64\Debug\SBserver.exe
+C:\Users\Ник\Desktop\prog\Labs\lab10\SBserverOld\SBserver\x64\Debug\SBserver.exe

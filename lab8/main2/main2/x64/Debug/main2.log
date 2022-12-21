@@ -1,0 +1,3 @@
+﻿  main2.cpp
+main2.obj : error LNK2019: ссылка на неразрешенный внешний символ Exponenta в функции main.
+C:\Users\Ник\Desktop\prog\Labs\lab8\main2\x64\Debug\main2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

@@ -1,0 +1,15 @@
+﻿  CAquatory.cpp
+  CBattleGame.cpp
+  CBattlePlayer.cpp
+C:\Users\Ник\Desktop\prog\Labs\lab10\SBserverOld\SBserver\CBattlePlayer.cpp(32,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ник\Desktop\prog\Labs\lab10\SBserverOld\SBserver\CBattlePlayer.cpp(38,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ник\Desktop\prog\Labs\lab10\SBserverOld\SBserver\CBattlePlayer.cpp(502,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ник\Desktop\prog\Labs\lab10\SBserverOld\SBserver\CBattlePlayer.cpp(517,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ник\Desktop\prog\Labs\lab10\SBserverOld\SBserver\CBattlePlayer.cpp(726,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ник\Desktop\prog\Labs\lab10\SBserverOld\SBserver\CBattlePlayer.cpp(798,35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  CCell.cpp
+  CShip.cpp
+  SBserver.cpp
+C:\Users\Ник\Desktop\prog\Labs\lab10\SBserverOld\SBserver\SBserver.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  SBserver.vcxproj -> C:\Users\Ник\Desktop\prog\Labs\lab10\SBserverOld\SBserver\x64\Debug\SBserver.exe
